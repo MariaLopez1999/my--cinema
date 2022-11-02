@@ -1,0 +1,14 @@
+.greeting{
+    display: flex;
+    justify-content: left;
+    margin-top: 140px;
+    width: 620px;
+    height: 80px;
+    background-color: rgb(248, 91, 91);
+    border-radius: 25px;
+    margin-left: 15px;
+}
+.greeting-title{
+    display: flex;
+    justify-content: center;
+}

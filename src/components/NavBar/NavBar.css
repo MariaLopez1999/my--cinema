@@ -1,0 +1,27 @@
+.navbar{
+    display: flex;
+    background-color: red;
+    height: 90px;
+    justify-content: space-between;
+}
+.navbar-title{
+    color: black;
+    font-size: 50px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.navbar-items{
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    margin-right: 300px;
+}
+.items{
+    display: flex;
+    text-decoration: none;
+    color: black;
+    font-size: 30px;
+    justify-content: space-between;
+    margin-left: 20px;
+    margin-top:10px;
+}

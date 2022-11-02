@@ -1,3 +1,6 @@
+body{
+  background-image: url(../src/assets/FONDO2.webp);
+}
 .App {
   text-align: center;
 }
