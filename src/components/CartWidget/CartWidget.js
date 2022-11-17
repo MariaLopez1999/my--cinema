@@ -1,5 +1,4 @@
-import React from 'react';
-import carrito from '../../assets/cart.png'
+import carrito from './cart.png'
 import './CartWidget.css'
 
 const CartWidget = () => {
@@ -11,3 +10,6 @@ const CartWidget = () => {
 };
 
 export default CartWidget;
+
+
+

@@ -15,13 +15,29 @@
     display: flex;
     flex-direction: row;
     margin-right: 300px;
+    justify-content: space-between;
 }
 .items{
     display: flex;
     text-decoration: none;
     color: black;
-    font-size: 30px;
     justify-content: space-between;
     margin-left: 20px;
     margin-top:10px;
+    font-size: 40px;
+}
+.active{
+    display: flex;
+    text-decoration: none;
+    color: black;
+    justify-content: space-between;
+    margin-left: 20px;
+    margin-top:10px;
+    font-size: 40px;
+}
+.inactive{
+    color:rgb(255, 255, 255);
+    font-size: 30px;
+    text-decoration: none;
+    justify-content: space-between;
 }
